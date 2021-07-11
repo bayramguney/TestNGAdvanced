@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.orangehrm.ExtentListeners.ExtentListeners"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test1(failed)">
+    <classes>
+      <class name="com.orangehrm.testcases.LoginTest">
+        <methods>
+          <include name="setUpFramework"/>
+          <include name="loginTest" invocation-numbers="1 0"/>
+        </methods>
+      </class> <!-- com.orangehrm.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

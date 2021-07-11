@@ -1,0 +1,4 @@
+INFO    2021-06-06 14:22:51,769 [TestNG-PoolService-1] com.orangehrm.testcases.BaseTest  - Inside Login Test
+INFO    2021-06-06 14:22:51,889 [TestNG-PoolService-0] com.orangehrm.testcases.BaseTest  - Inside Login Test
+INFO    2021-06-06 14:22:57,457 [TestNG-PoolService-0] com.orangehrm.testcases.BaseTest  - Driver Initialized !!!
+INFO    2021-06-06 14:23:00,914 [TestNG-PoolService-1] com.orangehrm.testcases.BaseTest  - Driver Initialized !!!
